@@ -8,5 +8,3 @@ Unsupervised learning is used in this project.
 Also a working of app is attached with this.
 
 
-For any queries regard
-contact : piyushsahani675@gmail.com
